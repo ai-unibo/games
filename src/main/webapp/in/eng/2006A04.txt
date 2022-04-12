@@ -1,0 +1,9 @@
+Divide the figure into 3 equal parts following the dashed lines.
+Pieces can be rotated and overturned.
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2006.autunno.q1.pdf">
+2006 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

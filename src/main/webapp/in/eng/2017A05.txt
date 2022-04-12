@@ -1,0 +1,8 @@
+Put the pieces on the board as to cover it all.
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2017.semifinali.q.pdf">
+2017 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

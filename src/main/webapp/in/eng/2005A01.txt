@@ -1,0 +1,7 @@
+Put the digits from 2 to 5 into the white boxes. 
+The sum of the digits on the horizontal line must be equal to the sum of those on the vertical line.
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2005.autunno.q.pdf">
+2005 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

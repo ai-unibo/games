@@ -1,0 +1,12 @@
+?- ['load.pl'].
+?- solver:demo('2005A01').
+
+Solving: 2005A01
+Searching for text (it may take some seconds) ...
+1: 81,027954%
+1: 95,791016%
+1: 96,514709%
+1: 96,479424%
+1: 85,397476%
+Reading done.
+result(img(15951520))

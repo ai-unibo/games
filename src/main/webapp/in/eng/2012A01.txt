@@ -1,0 +1,9 @@
+The boxes in the figure must contain all the integer numbers from 1 to 9. 
+Some of them are already written. The sum of the numbers on the same segment must be 20.
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/GiochiautunnoCE2012.pdf">
+2012 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

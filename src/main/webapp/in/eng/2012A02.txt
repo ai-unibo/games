@@ -1,0 +1,7 @@
+How many squares of 4 pieces are there in the figure?
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/GiochiautunnoCE2012.pdf">
+2012 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

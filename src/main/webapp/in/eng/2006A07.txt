@@ -1,0 +1,8 @@
+Fill the empty boxes in the figure so that you can read the numbers 25, 29, 37, 87, 196, 935, 1256, 9891 
+on horizontal (left to right) or vertical (top to bottom) lines.
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2006.autunno.q1.pdf">
+2006 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

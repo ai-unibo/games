@@ -1,0 +1,15 @@
+?- ['load.pl'].
+?- solver:demo('2017A01').
+
+Solving: 2017A01
+Searching for text (it may take some seconds) ...
+1: 82,261429%
+1: 83,257919%
+2: 91,541595%
+testo: 91,174202%
+La: 60,278046%
+di: 50,533409%
+2: 88,311684%
+9: 84,372047%
+Reading done.
+result(5)

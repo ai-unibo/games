@@ -1,0 +1,8 @@
+Write the integer numbers from 1 to 7 in the empty hexagons. The number 2 is already written.
+The sum of the three numbers on the vertical line and on the two diagonals must be always 12.
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2006.autunno.q1.pdf">
+2006 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

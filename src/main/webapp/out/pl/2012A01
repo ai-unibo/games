@@ -1,0 +1,10 @@
+?- ['load.pl'].
+?- solver:demo('2012A01').
+
+Solving: 2012A01
+Searching for text (it may take some seconds) ...
+Detected 4 diacritics
+8: 94,752625%
+8: 81,252762%
+Reading done.
+result(img(16030792))

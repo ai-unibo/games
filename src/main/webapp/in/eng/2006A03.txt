@@ -1,0 +1,9 @@
+If you had to color the figure in such a way that no two adjacent hexagons have the same color, 
+how many different colors would you need?
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2006.autunno.q1.pdf">
+2006 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

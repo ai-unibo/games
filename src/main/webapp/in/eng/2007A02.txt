@@ -1,0 +1,8 @@
+Complete the magic square making all the sums on the rows, columns and diagonals equal to 15.
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2007.autunno.q1.pdf">
+2007 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

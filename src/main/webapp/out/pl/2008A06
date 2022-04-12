@@ -1,0 +1,5 @@
+?- ['load.pl'].
+?- solver:demo('2008A06').
+
+Solving: 2008A06
+result(img(2017076))

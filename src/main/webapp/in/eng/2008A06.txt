@@ -1,0 +1,9 @@
+The figure is composed of two identical pieces. 
+Retrace their edges. Pieces can be rotated and overturned.
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2008.autunno.q1.pdf">
+2008 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>

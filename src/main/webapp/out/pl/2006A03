@@ -1,0 +1,7 @@
+?- ['load.pl'].
+?- solver:demo('2006A03').
+
+Solving: 2006A03
+Searching for text (it may take some seconds) ...
+Reading done.
+result(3)

@@ -1,0 +1,9 @@
+Put the integer numbers from 3 to 8 in the empty boxes. 
+The sum of the numbers on the same line must be 18. What is written on the left lower box?
+
+
+<br>
+<div class="small">(From 
+<a href="http://matematica.unibocconi.it/sites/default/files/2017.semifinali.q.pdf">
+2017 Giochi d'Autunno
+</a>, Bocconi University of Milan)</div>
